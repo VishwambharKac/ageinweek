@@ -1,0 +1,29 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("240_F_318487428_RTxUyTQW04RXcakokT3SMLo8lzkQySBG.jpg");
+}
+.container{
+    background-color: rgb(8, 248, 248);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    outline: auto;
+}
+
+.title{
+    margin: 20px 0;
+}
+
+.container .btn{
+    margin: 40px 0;
+    font-size: 1.3rem;
+    outline: solid black;
+}
+#resetbtn{
+    margin: 20px 0;
+    font-size: 1.3rem;
+
+}
